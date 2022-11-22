@@ -2,9 +2,10 @@
   width: 240px;
   margin-right: 100px;
   margin-bottom: 60px;
+  margin-top: 60px;
 }
 .cards__item:nth-last-of-type(3) {
-  margin: 0 0;
+  margin-right: 0;
 }
 .cards__item:nth-last-of-type(-n + 2) {
   margin-bottom: 0;
